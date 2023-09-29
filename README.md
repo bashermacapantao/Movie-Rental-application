@@ -1,0 +1,2 @@
+# Movie-Rental-application
+I have developed a movie rental application for my training, using C# for the backend, Extjs for the client-side, and SQL Server Management Studio (SSMS) for the database. This application allows users to browse, rent, and manage their favorite movies, providing a seamless and enjoyable movie rental experience. With a user-friendly interface and a robust database backend, it ensures efficient and secure movie rentals for all cinephiles.
